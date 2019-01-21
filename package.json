@@ -1,0 +1,7 @@
+{
+  "name": "react-blog",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.8.5"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "lerna": "^3.8.5",
+  "version": "independent",
+  "packages": [
+    "projects/*"
+  ]
+}
